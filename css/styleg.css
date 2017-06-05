@@ -1,0 +1,229 @@
+body{
+		
+}
+
+
+#menu{
+	width:960px;
+	height:550px;
+	margin:0 auto;
+	background-image:url(../images/menu1.jpg);
+}
+#menu:hover{
+	width:960px;
+	height:550px;
+	margin:0 auto;
+	background-image:url(../images/menu1r.jpg);
+}
+#ana{
+	width:960px;
+	height:1500px;
+	margin:0 auto;
+}
+#hasa{
+	width:960px;
+	height:630px;
+	margin:0 auto;
+	background-image:url(../images/hasa.jpg);
+	background-color:rgba(255, 255, 255, .6);
+}
+#zemin{
+	width:860px;
+	height:550px;
+	background-color:rgba(255, 255, 255, .6);
+	float:left;
+	margin-left:50px;
+	margin-top:50px;
+}
+.awesomplete{
+	width:120px;
+	float:right;
+	font-size:12px;
+	margin-top:10px;
+	margin-right:5px;
+}
+.isim{
+	width:860px;
+	height:80px;
+	color:black;
+	float:left;
+	font-size:72px;
+	margin-left:55px;
+	margin-top:70px;
+}
+.isim:hover {
+	width:860px;
+	height:80px;
+	color:rgba(130, 0, 0, 1);
+	float:left;
+	font-size:78px;
+	margin-left:55px;
+	margin-top:70px;
+}
+
+.yazi{
+	width:730px;
+	height:45px;
+	color:black;
+	float:left;
+	font-size:15px;
+	margin-left:75px;
+	margin-top:25px;
+	
+}
+#yazidik{
+	width:310px;
+	height:200px;
+	color:black;
+	float:left;
+	font-size:15px;
+	margin-left:50px;
+	margin-top:25px;
+	
+}
+#foto1{
+	width:310px;
+	height:200px;
+	color:black;
+	float:left;
+	font-size:12px;
+	margin-left:120px;
+	margin-top:25px;
+	
+}
+#foto1:hover {
+	width:310px;
+	height:200px;
+	color:rgba(130, 0, 0, 1);
+	font-size:13px;
+	font-style: red;
+	margin-left:120px;
+	margin-top:25px;
+	
+}
+
+#hasa1{
+	width:960px;
+	height:800px;
+	margin:0 auto;
+	float:left;
+	background-image:url(../images/hasa1.jpg);
+	
+}
+#zemin1{
+	width:860px;
+	height:650px;
+	background-color:rgba(255, 255, 255, .6);
+	float:left;
+	margin-left:50px;
+	margin-top:50px;
+}
+#odul{
+	width:785px;
+	height:150px;
+	float:left;
+	margin-left:45px;
+	margin-top:50px;
+}
+#zemin2{
+	width:860px;
+	height:415px;
+	background-color:rgba(255, 255, 255, .6);
+	float:left;
+	margin-left:50px;
+	margin-top:50px;
+}
+#foto2{
+	width:310px;
+	height:200px;
+	color:black;
+	float:left;
+	font-size:12px;
+	margin-left:12px;
+	margin-top:70px;
+	
+}
+#foto3{
+	width:310px;
+	height:200px;
+	color:black;
+	float:left;
+	font-size:12px;
+	margin-left:115px;
+	margin-top:70px;
+}
+#zemin3{
+	width:860px;
+	height:631px;
+	background-color:rgba(255, 255, 255, .6);
+	float:left;
+	margin-left:50px;
+	margin-top:50px;
+}
+.rop{
+	width:860px;
+	height:80px;
+	color:black;
+	font-size:50px;
+	margin-top:90px;
+}
+.rop:hover {
+	width:860px;
+	height:80px;
+	color:rgba(130, 0, 0, 1);
+	font-size:50px;
+	margin-top:90px;
+}
+.ropyazi{
+	width:730px;
+	height:45px;
+	color:black;
+	float:left;
+	font-size:15px;
+	margin-left:75px;
+	margin-top:25px;
+	
+}
+.ropyazi1{
+	width:730px;
+	height:45px;
+	color:black;
+	float:left;
+	font-size:15px;
+	margin-left:75px;
+	margin-top:50px;
+	
+}
+#foto4{
+	width:250px;
+	height:190px;
+	color:black;
+	float:left;
+	margin-left:230px;
+	margin-top:85px;
+	font-size:20px;
+}
+.syazi{
+	width:730px;
+	height:45px;
+	color:black;
+	float:left;
+	font-size:20px;
+	margin-left:110px;
+	margin-top:5px;
+	
+}
+.menuSecenek{
+	list-style-type:none;
+	margin-top:40px;
+	float:left;
+	color:black;
+	padding-left:70px;
+	font-size:30px;
+	margin-left:25px;
+}
+.gisim{
+	font-size:64px;
+	margin-top:20px;
+
+}
